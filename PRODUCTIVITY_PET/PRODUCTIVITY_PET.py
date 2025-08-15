@@ -2,15 +2,12 @@ from colorama import Fore, Style
 import random
 
 tasks = []
-print(Fore.BLUE + " PRODUCTIVITY PET 🐦‍🔥 " + Style.RESET_ALL)
+print(Fore.BLUE + "PRODUCTIVITY PET 🐦‍🔥 " + Style.RESET_ALL)
+print(Fore.LIGHTCYAN_EX + "Current Progress of Pet :🥚\nComplete your tasks to hatch your pet!" + Style.RESET_ALL)
 
 while True:
     user = input("Did you complete your tasks today? ").lower().strip()
-    
     if user in ["yes", "yeah", "yep"]:
-        print("🥚")
-        print(Fore.GREEN + " Share your tasks to hatch your customized pet" + Style.RESET_ALL)
-        
         tasks = [input("Enter task: ") for _ in range(int(input("How many tasks in your list? ")))]
         completed = int(input("How many tasks did you complete? "))
         
@@ -35,4 +32,3 @@ while True:
         else:
             print("Thank you for using PRODUCTIVITY PET! Goodbye!")
             break
-

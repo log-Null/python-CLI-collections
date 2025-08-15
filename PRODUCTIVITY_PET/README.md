@@ -74,4 +74,4 @@ Follow the prompts:
 ---
 
 ## ALSO:
-detailed explanation:
+detailed explanation:https://steps-to-tech-world.hashnode.dev/weekend-2-project-3-productivity-pet-with-python

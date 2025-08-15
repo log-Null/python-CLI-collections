@@ -50,10 +50,11 @@ Follow the prompts:
 ---
 
 ## Example
-    PRODUCTIVITY PET 🐦‍🔥 
-    Did you complete your tasks today? yes
-    🥚
-    Share your tasks to hatch your customized pet
+    PRODUCTIVITY PET 🐦‍🔥
+    Current Progress of Pet:🥚
+    Complete your tasks to hatch your  pet.
+    Did you complete your tasks today? 
+    yes
     How many tasks in your list? 3
     Enter task: Finish assignment
     Enter task: Read book

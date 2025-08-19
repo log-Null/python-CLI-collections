@@ -8,7 +8,7 @@ Great for tailoring resumes and improving job application success rates.
 - Cleans punctuation for accurate matching
 - Shows:
   - ✅ Matched keywords  
-  - ❌ Missing keywords  
+  - ❌ Missing keywords   
   - 📊 Match percentage
 
 ## 📂 Project Structure

@@ -109,5 +109,5 @@ This project is licensed under the **MIT License** – free to use for **persona
 ---
 
 ## Acknowledgements
-- [Spam bot using PyAutoGUI](https://www.geeksforgeeks.org/python/spam-bot-using-pyautogui/) – for enabling Python automation.  
+- [Spam bot using PyAutoGUI by CODEDEX](https://www.geeksforgeeks.org/python/spam-bot-using-pyautogui/) – 
 - CODEDEX– for excellent resources and tutorials on automation scripting.

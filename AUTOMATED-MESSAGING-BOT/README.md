@@ -3,7 +3,7 @@
 ## Overview
 **Message Automator App** is a Python-based automation tool designed to type **predefined messages automatically** in any active text input field. While simple in functionality, it demonstrates the power of **Python automation with PyAutoGUI** and can be used for:
 
-- Fun demonstrations or reels  
+- Fun demonstrations or reels  .
 - Learning automation scripting  
 - Experimenting with automated typing in text editors  
 

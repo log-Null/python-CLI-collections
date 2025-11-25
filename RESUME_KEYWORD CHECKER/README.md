@@ -1,7 +1,7 @@
 # 📝 Resume Keyword Checker
 
 A beginner-friendly Python script that compares your resume text with a job description to see if you have the required keywords.  
-Great for tailoring resumes and improving job application success rates.
+Great for tailoring resumes and improving job application success rates
 
 ## 🚀 Features
 - Reads **resume.txt** and **job.txt** files
